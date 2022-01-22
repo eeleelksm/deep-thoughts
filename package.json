@@ -19,7 +19,7 @@
 	"bugs": {
 		"url": "https://github.com/eeleelksm/deep-thoughts/issues"
 	},
-	"homepage": "https://enigmatic-beyond-86773.herokuapp.com/",
+	"homepage": "https://github.com/eeleelksm/deep-thoughts#readme",
 	"devDependencies": {
 		"concurrently": "^7.0.0"
 	},
